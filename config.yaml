@@ -3,12 +3,12 @@ languageCode: en-us
 themesDir : themes
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Intelia Analítica
 
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Intelia Analítica
         description: Example description
         weight: 1
     zh-cn:

@@ -1,6 +1,6 @@
 baseURL = 'https://inteliaedu.com/'
 languageCode = 'en-us'
-title = 'Roberto Bonilla' 
+title = 'Intelia Analítica' 
 themesDir = "themes"
 theme = 'hugo-theme-stack'
 [menu]
