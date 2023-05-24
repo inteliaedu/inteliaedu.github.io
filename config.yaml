@@ -1,4 +1,4 @@
-baseurl: https://inteliaedu.github.io/
+baseurl: https://inteliaedu.com/
 languageCode: en-us
 themesDir : themes
 theme: hugo-theme-stack
