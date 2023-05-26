@@ -1,7 +1,7 @@
 ---
 title: About Us
 #description: Roberto Bonilla | Founder @ Intelia Analítica
-date: '2019-02-28'
+date: '2023-05-26'
 aliases:
   - about-us
   - about-intelia
