@@ -111,8 +111,19 @@ params:
             id: "3293e8a8-0c35-4321-a9f3-d567a9ab9f08"
 
     widgets:
-        homepage: []
-        page: []
+        homepage:
+            - type: search
+            - type: archives
+              params:
+                  limit: 5
+            - type: categories
+              params:
+                  limit: 10
+            - type: tag-cloud
+              params:
+                  limit: 10
+        page:
+            - type: toc
 
     opengraph:
         twitter:
