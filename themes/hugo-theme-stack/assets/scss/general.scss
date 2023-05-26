@@ -16,6 +16,13 @@ a {
     }
 }
 
+img[src$='#floatleft']
+{
+  float:left;
+  margin-right:15px;
+  margin-left:15px;
+}
+
 .section-title {
     text-transform: uppercase;
     margin-top: 0;

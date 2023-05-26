@@ -1,35 +1,44 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
+title: About Us
+#description: Roberto Bonilla | Founder @ Intelia Analítica
 date: '2019-02-28'
 aliases:
   - about-us
-  - about-hugo
+  - about-intelia
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2023-05-26'
 menu:
     main: 
         weight: -90
         params:
             icon: user
 comments: false
+image : "intelia-back.png"
 ---
+# Roberto Bonilla | Founder @ Intelia Analítica
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+{{< figure library="true" src="/roberto-modified.png#floatleft" height="250px" width="250px">}}
 
-Hugo makes use of a variety of open source projects including:
+Hi!,
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I am delighted to introduce myself as **Roberto Bonilla**, a seasoned AI developer with an extensive background of over 5 years. Throughout my career, I have been actively involved in designing and constructing cutting-edge AI & data models in top-notch companies.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+With an unwavering passion for data and a wealth of experience as a **senior data scientist at Coca Cola and Oracle**, I have encountered numerous challenging projects that have honed my skills. Moreover, during my pursuit of a Masters' degree in Madrid, I recognized a significant gap in the realm of Spanish AI content, a lack of comprehensive and detailed resources for the community. This realization served as the inspiration behind the inception of **Intelia Analítica**.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+>In essence, my vision for the forthcoming five years revolves around fostering the **largest community of Spanish-speaking AI enthusiasts**. Through the establishment of Intelia, we aim to revolutionize the landscape by providing unparalleled resources, expertise, and support to empower individuals interested in AI and related fields.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+To explore Intelia's latest projects and stay updated, I invite you to click on the **[Categories](https://www.inteliaedu.com/page/archives/)** section on our website. Additionally, I encourage you to follow us on **[Youtube](https://www.youtube.com/channel/UCFi_GOHZiFGQHS6xbaGp_HQ)** and **[Github](https://github.com/inteliaedu)** to join our vibrant community.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+**Wishing you all the best of luck on your endeavors.**
+
+Connect with me on **[Linked In](https://www.linkedin.com/in/roberto-bonilla-ib/)**
+
+Warm regards,
+&nbsp;
+
+&nbsp;
+
+**Roberto Bonilla**
+
+**Founder @ Intelia Analítica**

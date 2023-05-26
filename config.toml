@@ -1,4 +1,4 @@
-baseURL = 'https://inteliaedu.com/'
+baseURL = 'https://www.inteliaedu.com/'
 languageCode = 'en-us'
 title = 'Intelia Analítica' 
 themesDir = "themes"
@@ -13,14 +13,14 @@ theme = 'hugo-theme-stack'
         newTab = true
 [[menu.social]]
   name = 'Linked In'
-  url = 'https://www.linkedin.com/in/roberto-bonilla-ib/'
+  url = 'https://www.linkedin.com/company/intelia-edu/'
   weight = 1
     [menu.social.params]
         icon = "brand-linkedin"
         newTab = true
 [[menu.social]]
   name = 'GitHub'
-  url = 'https://github.com/inteliaedu'
+  url = 'https://github.com/inteliaedu/'
   weight = 1
     [menu.social.params]
         icon = "brand-github"
