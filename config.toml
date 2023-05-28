@@ -1,6 +1,6 @@
 baseURL = 'https://www.inteliaedu.com/'
 languageCode = 'en-us'
-title = 'Intelia Analítica' 
+title = 'Intelia' 
 themesDir = "themes"
 theme = 'hugo-theme-stack'
 [menu]
